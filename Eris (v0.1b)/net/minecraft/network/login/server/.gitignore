@@ -1,0 +1,4 @@
+/S00PacketDisconnect.class
+/S01PacketEncryptionRequest.class
+/S02PacketLoginSuccess.class
+/S03PacketEnableCompression.class

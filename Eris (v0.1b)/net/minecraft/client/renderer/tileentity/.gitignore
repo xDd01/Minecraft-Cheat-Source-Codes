@@ -1,0 +1,17 @@
+/RenderEnderCrystal.class
+/RenderItemFrame.class
+/RenderWitherSkull.class
+/TileEntityBannerRenderer$TimedBannerTexture.class
+/TileEntityBannerRenderer.class
+/TileEntityBeaconRenderer.class
+/TileEntityChestRenderer.class
+/TileEntityEnchantmentTableRenderer.class
+/TileEntityEndPortalRenderer.class
+/TileEntityEnderChestRenderer.class
+/TileEntityItemStackRenderer.class
+/TileEntityMobSpawnerRenderer.class
+/TileEntityPistonRenderer.class
+/TileEntityRendererDispatcher.class
+/TileEntitySignRenderer.class
+/TileEntitySkullRenderer.class
+/TileEntitySpecialRenderer.class

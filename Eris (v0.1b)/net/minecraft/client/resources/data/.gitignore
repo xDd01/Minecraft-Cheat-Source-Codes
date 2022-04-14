@@ -1,0 +1,16 @@
+/AnimationFrame.class
+/AnimationMetadataSection.class
+/AnimationMetadataSectionSerializer.class
+/BaseMetadataSectionSerializer.class
+/FontMetadataSection.class
+/FontMetadataSectionSerializer.class
+/IMetadataSection.class
+/IMetadataSectionSerializer.class
+/IMetadataSerializer$Registration.class
+/IMetadataSerializer.class
+/LanguageMetadataSection.class
+/LanguageMetadataSectionSerializer.class
+/PackMetadataSection.class
+/PackMetadataSectionSerializer.class
+/TextureMetadataSection.class
+/TextureMetadataSectionSerializer.class

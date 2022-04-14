@@ -1,0 +1,11 @@
+/AnvilChunkLoader.class
+/AnvilSaveConverter.class
+/AnvilSaveHandler.class
+/ChunkLoader$AnvilConverterData.class
+/ChunkLoader.class
+/ExtendedBlockStorage.class
+/IChunkLoader.class
+/NibbleArrayReader.class
+/RegionFile$ChunkBuffer.class
+/RegionFile.class
+/RegionFileCache.class

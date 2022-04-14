@@ -1,0 +1,14 @@
+/FileDownloadThread.class
+/FileUploadThread.class
+/HttpListener.class
+/HttpPipeline$1.class
+/HttpPipeline.class
+/HttpPipelineConnection.class
+/HttpPipelineReceiver.class
+/HttpPipelineRequest.class
+/HttpPipelineSender.class
+/HttpRequest.class
+/HttpResponse.class
+/HttpUtils.class
+/IFileDownloadListener.class
+/IFileUploadListener.class
